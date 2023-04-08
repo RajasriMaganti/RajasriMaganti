@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![MasterHead](https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png)
 <h1 align="center">Hi 👋, I'm Rajasri Maganti</h1>
@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*B8DsSabAHbGZJt3Q">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminivemulapalli&label=Profile%20views&color=0e75b6&style=flat" alt="yaminivemulapalli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajasriMaganti&label=Profile%20views&color=0e75b6&style=flat" alt="RajasriMAganti" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Magantirajasri/" target="blank"><img src="https://img.shields.io/twitter/follow/@Magantirajasri?logo=twitter&style=for-the-badge" alt="@Magantirajasri" /></a> </p>
 
