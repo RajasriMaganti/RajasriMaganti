@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminivemulapalli&label=Profile%20views&color=0e75b6&style=flat" alt="yaminivemulapalli" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@yaminivemulapa1" target="blank"><img src="https://img.shields.io/twitter/follow/@yaminivemulapa1?logo=twitter&style=for-the-badge" alt="@yaminivemulapa1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Magantirajasri/" target="blank"><img src="https://img.shields.io/twitter/follow/@Magantirajasri?logo=twitter&style=for-the-badge" alt="@Magantirajasri" /></a> </p>
 
 - 🌱 I’m currently learning *object oriented programming*
 
