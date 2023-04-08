@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Magantirajasri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yaminivemulapa1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/maganti31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamini vemulapalli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yamini_v_2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yamini_v_2212" height="30" width="40" /></a>
+<a href="https://twitter.com/Magantirajasri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Magantirajasri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maganti31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maganti31" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajasrimaganti21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajasrimaganti21" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminivemulapalli&show_icons=true&locale=en&layout=compact" alt="yaminivemulapalli" /></p>
