@@ -21,8 +21,8 @@
 <a href="https://www.hackerrank.com/rajasrimaganti21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajasrimaganti21" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminivemulapalli&show_icons=true&locale=en&layout=compact" alt="yaminivemulapalli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajasriMaganti&show_icons=true&locale=en&layout=compact" alt="RajasriMaganti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaminivemulapalli&show_icons=true&locale=en" alt="yaminivemulapalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajasriMaganti&show_icons=true&locale=en" alt="RajasriMaganti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaminivemulapalli&" alt="yaminivemulapalli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajasriMaganti&" alt="RajasriMaganti" /></p>
