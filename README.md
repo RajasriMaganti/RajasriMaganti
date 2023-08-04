@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/Magantirajasri/" target="blank"><img src="https://img.shields.io/twitter/follow/@Magantirajasri?logo=twitter&style=for-the-badge" alt="@Magantirajasri" /></a> </p>
 
-- 🌱 I’m currently learning *object oriented programming*
+- 🌱 I’m currently learning *programming*
 
 - 📫 How to reach me *rajasrimaganti2004@gmail.com*
 
